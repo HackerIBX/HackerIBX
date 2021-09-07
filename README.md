@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @HackerIBX
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently making crappy 2D games
+- 💞️ I’m looking to collaborate on any fun idea 
+- 📫 drop mail @ hdrk0707@gmail.com
 
-<!---
-HackerIBX/HackerIBX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
